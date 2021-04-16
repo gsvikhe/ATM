@@ -1,3 +1,4 @@
+
 Implementation of ATM 
 
 
@@ -11,7 +12,7 @@ The basic algorithm followed is as follows -
 
 The below diagram further illustrates the interaction between the created classes. 
 
-//insert image 
+![image (1)](https://user-images.githubusercontent.com/13797654/114977801-4eb82880-9e56-11eb-9485-a85c3178a849.jpg)
 
 The account details to test the application are as follows
 1. account1(12345, 3409, 1000, 1200) - (Account Number, Pin, Available Balance, Total Balance)
@@ -20,7 +21,7 @@ The account details to test the application are as follows
 
 To use this project
 1. Clone this project
-2. In ATM folder, mkdir build
-3. cmake .. && build make
-4. ./main
+2. In ATM folder, ```mkdir build```
+3. ```cmake .. && build make```
+4. ```./main```
 
